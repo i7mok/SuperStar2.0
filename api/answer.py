@@ -325,7 +325,7 @@ class Tiku:
         if self.SUBMIT:
             return ""
         else:
-            return " "
+            return ""
 
     def check_llm_connection(self) -> bool:
         """
