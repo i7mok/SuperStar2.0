@@ -33,8 +33,3 @@
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lispringing/SuperStar&type=date&legend=top-left" />
  </picture>
 </a>
-
-## 赞助
->如果觉着代码对你有帮助，可以赞赏一下开发者
-
-![截图](/images/reward.jpg)
