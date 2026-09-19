@@ -14,7 +14,7 @@
 
 ## 快速开始
 
-<a href="https://blog.springing.top/p/20241119/" target="blank">点击我查看操作说明</a>
+<a href="https://blog.springing.top/p/20241119/" target="blank">1111</a>
 
 <a href="https://github.com/Samueli924/chaoxing" target="blank">灵感来源</a>
 
